@@ -15,6 +15,8 @@ Github pages file, build from Vue-CLI
 ***
 ### sample
 
+https://kuc-arc-f.github.io/cms-sample-type6/
+
 
 ***
 
